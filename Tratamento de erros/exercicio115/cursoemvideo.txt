@@ -1,0 +1,4 @@
+Jose;34
+maria;85
+gustavo;18
+animal;3
